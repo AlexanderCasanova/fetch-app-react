@@ -1,4 +1,4 @@
-# Form App in React
+# Fetch App in React
 Este es un ejemplo de una aplicación que realiza una peticion a una API desarrollada en React. Puedes utilizarlo como un punto de partida para proyectos más complejos o como un ejercicio para aprender sobre React y Docker.
 
 ## Cómo Usar
