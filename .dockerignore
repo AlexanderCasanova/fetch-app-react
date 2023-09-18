@@ -1,0 +1,23 @@
+# Ignorar archivos y directorios generados por npm/yarn
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Ignorar archivos de construcción y salida
+/build
+/dist
+
+# Ignorar archivos locales de desarrollo
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignorar archivos de respaldo y temporales
+*.swp
+*.swo
+*.swn
+
+# Ignorar archivos y directorios específicos de Vite
+.vite
+.vitepress
